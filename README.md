@@ -16,7 +16,7 @@
 - Currently learning **Machine Learning, Data Structures & Algorithms**
 -  Interested in **Artificial Intelligence, Software Development, and Digital System Design**
 -  Working on Numerical Methods and VHDL projects
--  Reach me at: **your-email@example.com**
+-  Reach me at: **240386diksha@cosmoscollege.edu.np**
 
 ---
 
@@ -47,7 +47,7 @@
   - Comparators
   - Code Converters
 
-- 📰**Explainable Fake News Detection System**
+- **Explainable Fake News Detection System**
   - Research project focused on improving transparency in fake news detection.
 
 ---
